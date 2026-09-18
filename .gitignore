@@ -12,3 +12,7 @@ venv/
 node_modules/
 *.log
 .DS_Store
+
+# Editor and Celery beat state
+.idea/
+celerybeat-schedule*
